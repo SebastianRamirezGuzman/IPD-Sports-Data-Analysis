@@ -23,6 +23,16 @@ Para resolver esto, implementé un proceso de End-to-End Analytics:
 
 Liderazgo por Disciplina: Federaciones como Bádminton y Tenis muestran una consistencia superior en el volumen de podios internacionales.
 
+### 🖼️ Dashboard de Rendimiento Deportivo
+El dashboard interactivo permite monitorear la evolución de medallería y la eficiencia de las federaciones en tiempo real.
+
+![Dashboard de Deportes IPD](./Dashboard_IPD_Deportes.png)
+
+#### 🔍 Análisis de los Componentes Visuales:
+* **Evolución Temporal**: El gráfico de líneas muestra claramente el impacto de la pandemia en 2020 y la robusta recuperación en 2023.
+* **Distribución de Logros**: El gráfico de torta valida que el **40.2%** de las participaciones resultan en medallas de bronce, seguidas por un **30.29%** de plata y **29.51%** de oro.
+* **Dominio por Federación**: Se identifica visualmente a **Bádminton** y **Tenis** como las disciplinas con mayor volumen de podios internacionales.
+
 🛠️ Stack Tecnológico
 * **SQL Server**: Procesamiento y lógica de negocio avanzada.
 
