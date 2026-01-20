@@ -20,6 +20,7 @@ Para resolver esto, implementé un proceso de End-to-End Analytics:
    
 * **Resiliencia Deportiva**: Se identificó una recuperación sólida post-pandemia, siendo 2023 un año clave de reactivación competitiva.
 * **Distribución de Logros**: El 40.2% de las medallas obtenidas son de bronce, lo que representa una base competitiva amplia con oportunidad de escalamiento hacia el oro (actualmente en 29.5%).
+* **Hallazgo**:"El TOP 5 de medallas por federación destaca la hegemonía del Bádminton, lo cual sugiere un modelo de gestión exitoso que podría ser replicado en otras disciplinas"
 
 Liderazgo por Disciplina: Federaciones como Bádminton y Tenis muestran una consistencia superior en el volumen de podios internacionales.
 
