@@ -42,3 +42,8 @@ El dashboard interactivo permite monitorear la evolución de medallería y la ef
 * **Dataset**: Deportistas en Eventos Internacionales - IPD. 
 
 * **Link**: https://www.datosabiertos.gob.pe/dataset/deportistas-en-eventos-deportivos-internacionales-instituto-peruano-del-deporte-ipd
+
+
+### 📂 Descarga del Proyecto
+Si deseas explorar el modelo de datos, las relaciones y las medidas DAX detalladas, puedes descargar el archivo original aquí:
+👉 [Descargar archivo .pbix](./Dashboard_IPD_Deportes.pbix)
